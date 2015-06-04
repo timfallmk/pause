@@ -1,7 +1,7 @@
 ##Tim Fall
 
 ####Introduction
-![Badge All the Things!](http://githubbadge.appspot.com/timfallmk)
+![Badge All the Things!](http://githubbadge.appspot.com/timfallmk?s=1)
 
 ----
 
