@@ -10,7 +10,7 @@
 #####Midokura  _2013 - 2015_
 Chief Cloud and Network Architect for Midokura. Created and trained system engineering team as well as oversaw product integration. Member of Professional Services team and evangelism/technical preview participation.
 
-Core focus on developing product integration, professional services and consulting, as well as evangelism and technical presentations. Developed several key projects (see [below](#projects,-code-highights,-and-other-fun-stuff) for details and examples) for integrating and deploying [MidoNet][11] into other systems. Oversaw open source community integration effort. Integration into a number of projects is currently under active development.
+Core focus on developing product integration, professional services and consulting, as well as evangelism and technical presentations. Developed several key projects (see [below](#skills) for details and examples) for integrating and deploying [MidoNet][11] into other systems. Oversaw open source community integration effort. Integration into a number of projects is currently under active development.
 
 Lead and created [containerization][8] effort. Created spec for containerizing [MidoNet][11] in an OpenStack-based cloud environment, as well as developing first-class citizen SDN for Docker (and other container solutions). Fully containerized all [MidoNet][11] components, and designed distributed deployment and running systems to be used on modern distributed systems. Project will form the basis for native Docker networking and co-development with `libnetwork` (see [bees](#bees)).
 
