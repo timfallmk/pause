@@ -2,6 +2,7 @@
 
 ####Introduction
 <iframe src="http://githubbadge.appspot.com/timfallmk?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+[Badge All the Things!](http://githubbadge.appspot.com/timfallmk)
 
 ----
 
