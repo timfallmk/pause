@@ -7,14 +7,21 @@
 
 ###Experience
 ####**Chief Cloud and Network Architect**
-#####Midokura  _2013 - 2015_ 
+#####Midokura  _2013 - 2015_
+Chief Cloud and Network Architect for Midokura. Created and trained system engineering team as well as oversaw product integration. Member of Professional Services team and evangelism/technical preview participation.
+
+Core focus on developing product integration, professional services and consulting, as well as evangelism and technical presentations. Developed several key projects (see [below](#projects,-code-highights,-and-other-fun-stuff) for details and examples) for integrating and deploying [MidoNet][11] into other systems. Oversaw open source community integration effort. Integration into a number of projects is currently under active development.
+
+Lead and created [containerization][8] effort. Created spec for containerizing [MidoNet][11] in an OpenStack-based cloud environment, as well as developing first-class citizen SDN for Docker (and other container solutions). Fully containerized all [MidoNet][11] components, and designed distributed deployment and running systems to be used on modern distributed systems. Project will form the basis for native Docker networking and co-development with `libnetwork` (see [bees](#bees)).
+
+Other major responsibilites included core-development and debugging, customer-facing QA and support, and development of tech-talks designed to familiarize the community with SDN and the OpenStack ecosystem. These contributions required intimate familiarity with the technology and state of development for componenets like containers, Linux kernel development (networking componenets specifically), cloud orchestration, SDN developments, networking developments, etc.
 
 ####**VP of IT and Infrastructure**
-#####Airtime Media Inc.  _2012 - 2013_ 
+#####Airtime Media Inc.  _2012 - 2013_
 Founding member of the operations/IT team for Airtime.com. Responsible for design and maintenance of internal systems and data platforms. Also established and implemented inventory tracking, remote operations, and scalability projects. Primary specialty in creating operations structures for companies just now needing them.
 
 ####**Owner/Founder**
-#####SG-1 Technologies  _2004 - 2013_ 
+#####SG-1 Technologies  _2004 - 2013_
 Founder and owner of data consulting firm specializing in deployment of computing systems and electronics as well as networks for small businesses. To date, SG-1 Technology Enterprises has seven active clients.
 
 Coordinated, designed, and managed all campus computer and networking systems for Menlo School in Atherton, CA. Expertise in Unix, Windows, and Mac architecture, including set up of wireless networks, centralized student account storage, universal portal access, and interactive student displays.
@@ -46,7 +53,7 @@ Design and implementation of home interconnectivity project for client of SG-1 T
 ---
 ###Skills {#that-pay-said-bills}
 ####Technology
-Primary recent work involving cloud based systems including orchestration, storage, components, and development. Heavy work in software-based networking design (SDN) for cloud and other environments. Deeply involved in cloud development communities, including OpenStack[1], Mesosphere[2], Docker[3], CoreOS[5], and related technologies (Docker Swarm, `etcd`, `kubernetes`, `libvirt`, `rkt`, Docker Machine, *and many others I've forogtten*)
+Primary recent work involving cloud based systems including orchestration, storage, components, and development. Heavy work in software-based networking design (SDN) for cloud and other environments. Deeply involved in cloud development communities, including [OpenStack][1], [Mesosphere][2], [Docker][3], [CoreOS][5], and related technologies (Docker Swarm, `etcd`, `kubernetes`, `libvirt`, `rkt`, Docker Machine, *and many others I've forogtten*)
 **Contributions to most projects done upstream**
 
 *Previous work included*:
@@ -61,7 +68,7 @@ Expertise in design and management of centralized, user-based networks. Knowledg
 ###Projects, Code Highights, and other Fun Stuff
 Here's a (from from comprehensive) list of my recent projects, ones I've contributed to, and other things I like to play with:
 #####Bees
-*[`bees`](https://github.com/midonet/bees) is project to bring true open source and full featured SDN to containers and other distributed systems. It is designed to make all componenets distributed and leverages MidoNet[11] for the backend.*
+*[`bees`](https://github.com/midonet/bees) is project to bring true open source and full featured SDN to containers and other distributed systems. It is designed to make all componenets distributed and leverages [MidoNet][11] for the backend.*
 
 >**Note**: This is part of a soon-to-be announced project in joint development with Docker [`libnetwork`](https://blog.docker.com/2015/04/docker-networking-takes-a-step-in-the-right-direction-2/)
 
@@ -71,7 +78,7 @@ Here's a (from from comprehensive) list of my recent projects, ones I've contrib
 >[![Docker build](http://dockeri.co/image/timfallmk/bees)](https://registry.hub.docker.com/u/timfallmk/bees)
 
 #####Arrakis
-*[Arrakis](https://github.com/midonet/arrakis) is a collection of Puppet modules to deploy and configure MidoNet[11] as an option for networking in OpenStack. It is aligned with (and developed against) the upstream Puppet modules for deploying OpenStack on StackForge[9]. It's development also contributed code for making these default modules into a plugin framework capable of accepting multiple providers[10].*
+*[Arrakis](https://github.com/midonet/arrakis) is a collection of Puppet modules to deploy and configure [MidoNet][11] as an option for networking in OpenStack. It is aligned with (and developed against) the upstream Puppet modules for deploying OpenStack on [StackForge][9]. It's development also contributed code for making these default modules into a plugin framework capable of accepting multiple [providers][10].*
 
 #####Current Work
 *Currently I am working on, and contributing to these projects. But who knows, this could change from minute to minute!*
