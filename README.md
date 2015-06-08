@@ -12,9 +12,9 @@ Chief Cloud and Network Architect for Midokura. Created and trained system engin
 
 Core focus on developing product integration, professional services and consulting, as well as evangelism and technical presentations. Developed several key projects (see [below](#skills) for details and examples) for integrating and deploying [MidoNet][11] into other systems. Oversaw open source community integration effort. Integration into a number of projects is currently under active development.
 
-Lead and created [containerization][8] effort. Created spec for containerizing [MidoNet][11] in an OpenStack-based cloud environment, as well as developing first-class citizen SDN for Docker (and other container solutions). Fully containerized all [MidoNet][11] components, and designed distributed deployment and running systems to be used on modern distributed systems. Project will form the basis for native Docker networking and co-development with `libnetwork` (see [bees](#bees)).
+Lead and created [containerization][8] effort. Created spec for containerizing [MidoNet][11] in an OpenStack-based cloud environments, as well as developing first-class-citizen SDN for Docker (and other container solutions). Fully containerized all [MidoNet][11] components, and designed distributed deployment and running version to be used on modern distributed systems. Project will form the basis for native Docker networking in co-development with `libnetwork` (see [bees](#bees)).
 
-Other major responsibilites included core-development and debugging, customer-facing QA and support, and development of tech-talks designed to familiarize the community with SDN and the OpenStack ecosystem. These contributions required intimate familiarity with the technology and state of development for componenets like containers, Linux kernel development (networking componenets specifically), cloud orchestration, SDN developments, networking developments, etc.
+Other major responsibilites included core-development and debugging, customer-facing QA and support, and development of tech-talks designed to familiarize the community with SDN and the ecosystem. These contributions required intimate familiarity with the technology and state of development for componenets like containers, Linux kernel development (networking componenets specifically), cloud orchestration, SDN developments, networking developments, etc.
 
 ####**VP of IT and Infrastructure**
 #####Airtime Media Inc.  _2012 - 2013_
@@ -106,5 +106,3 @@ Here's a (from from comprehensive) list of my recent projects, ones I've contrib
 [9]:https://github.com/stackforge
 [10]:https://github.com/stackforge/networking-midonet
 [11]:http://midonet.org/
-
-> Written with [StackEdit](https://stackedit.io/).
