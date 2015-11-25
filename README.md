@@ -6,6 +6,15 @@
 ----
 
 ###Experience
+####**Chief Solutions Architect**
+#####Mesosphere _2015-2015_
+Second Solutions Architect hired for Mesosphere. Helped run the Solutions Architect team, and informed the hiring and training process for new members. Also helped build out solutions based on the DCOS (**D**ata**C**enter **O**perating **S**ystem) product from Mesosphere.
+
+Responsible for covering all aspects of Mesosphere DCOS and Mesos deployment. This included, installation buildout and creation, deployment in customer environments, customization for customer use cases and variables, code changes and contributions based on customer feedback, deep dives and end-to-end knowledge of technology involved, professional services, etc.
+
+Also responsible for evangelism of Mesosphere products, including hosting meetups and convention speeches, product overviews and discussions with developers and community, managing feedback and ecosystem componenets, as well as general and in depth knowledge sharing about Mesos and Mesosphere DCOS.
+
+Although responsibilities could range over the full spectrum of tasks, from dev to sales, major time was also spent on core development for parts of the ecosystem. Feedback from the field, as well as improvements and fixes that needed to be made were considered part of this reponsibility.
 ####**Chief Cloud and Network Architect**
 #####Midokura  _2013 - 2015_
 Chief Cloud and Network Architect for Midokura. Created and trained system engineering team as well as oversaw product integration. Member of Professional Services team and evangelism/technical preview participation.
